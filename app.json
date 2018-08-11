@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/timetable/index",
+    "pages/timetable/add",
+    "pages/timetable/lesson/more",
+    "pages/timetable/lesson/detailed",
+    "pages/timetable/lesson/add",
+    "pages/timetable/set"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
